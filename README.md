@@ -8,6 +8,13 @@ Steps:
 
 Step 1: Setup dbt+ Snowflake
 
+Create Accounts and Roles (Snowflake Environment)
+
+
+
+![image](https://github.com/user-attachments/assets/62f710be-2185-446f-8189-1a5dfadd75bf)
+
+
 
 Step 2: Configure dbt_project.yml and packages
 
