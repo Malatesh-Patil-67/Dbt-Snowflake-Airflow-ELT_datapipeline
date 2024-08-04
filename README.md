@@ -47,3 +47,8 @@ Successful deployment in Airflow(using astronomer-cosmos)
 
 
 ![image](https://github.com/user-attachments/assets/2d58e5b7-d372-47f6-8a61-a84801465e56)
+
+
+
+
+credits: https://www.youtube.com/watch?v=OLXkGB7krGo(Jayzern YT)
