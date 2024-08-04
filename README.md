@@ -1,4 +1,4 @@
-# Dbt--Snowflake--Airflow-Data-Pipeline
+# Dbt-Snowflake--Airflow-ELT Data-Pipeline
 Building an ELT Pipeline with dbt, Snowflake, and Airflow
 
 Project Overview:
