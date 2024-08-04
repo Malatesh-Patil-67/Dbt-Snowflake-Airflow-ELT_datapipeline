@@ -8,8 +8,8 @@ Steps:
 
 Step 1: Setup dbt+ Snowflake
 
-Create Accounts and Roles (Snowflake Environment)
-
+A) Create Accounts and Roles (Snowflake Environment)
+B) Snowflake Warehouse, Database, Schema Deployment
 
 
 ![image](https://github.com/user-attachments/assets/62f710be-2185-446f-8189-1a5dfadd75bf)
@@ -58,4 +58,4 @@ Successful deployment in Airflow(using astronomer-cosmos)
 
 
 
-credits: https://www.youtube.com/watch?v=OLXkGB7krGo(Jayzern YT)
+Credits: https://www.youtube.com/watch?v=OLXkGB7krGo(Jayzern YT)
