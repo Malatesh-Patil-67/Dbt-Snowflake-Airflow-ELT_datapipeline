@@ -37,7 +37,15 @@ Step 5: Macro functions (D.R.Y.)
 
 
 
+
+
+
+
 Step 6: Generic and Singular Tests
+
+
+
+
 
 
 
@@ -46,11 +54,18 @@ Step 6: Generic and Singular Tests
 
 
 
+
+
+
+
 Step 7: Deploy on Airflow
 
 
 
+
+
 Successful deployment in Airflow(using astronomer-cosmos)
+
 
 
 
