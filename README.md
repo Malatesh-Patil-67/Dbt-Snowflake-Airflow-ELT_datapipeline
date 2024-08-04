@@ -9,6 +9,7 @@ Steps:
 Step 1: Setup dbt+ Snowflake
 
 A) Create Accounts and Roles (Snowflake Environment)
+
 B) Snowflake Warehouse, Database, Schema Deployment
 
 
